@@ -4,11 +4,12 @@ Thumbs.db
 node_modules/
 public/
 .deploy*/
+.deploy*
 gideonyi.github.io.iml
-.deploy_git
 .idea
 js
 2020
 archives
 css
 fancybox
+db.json
