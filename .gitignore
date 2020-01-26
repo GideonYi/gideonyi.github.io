@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+public/
+.deploy*/
+gideonyi.github.io.iml
+.deploy_git
+.idea
+js
+2020
+archives
+css
+fancybox
